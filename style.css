@@ -1,1 +1,29 @@
+h1 {
+    text-align: center;
+    font-family: "Gill Sans";
+    padding: 0;
+    margin: 0;
+    background-color: silver;
+}
 
+h2 {
+    text-align: left;
+    font-family: "Gill Sans";
+    padding: 0;
+    margin: 0;
+    background-color: silver;
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.links {
+    display: inline;
+}
+
+body {
+    background-color: white;
+  }
